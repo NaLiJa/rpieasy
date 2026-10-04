@@ -1,7 +1,7 @@
 [![Code size](https://img.shields.io/github/languages/code-size/enesbcs/rpieasy)]() [![Last commit](https://img.shields.io/github/last-commit/enesbcs/rpieasy)]()
 
-# This version will be archived soon!
-[Please use RPIEasy2](https://github.com/enesbcs/rpieasy2)
+# Support and development for this version have ceased completely.
+[Please use RPIEasy2 instead](https://github.com/enesbcs/rpieasy2)
 
 # RPIEasy
 
